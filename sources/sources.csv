@@ -1,0 +1,7 @@
+name,type,where,added,calls,hits,hit_rate,status
+central bank statements,official,bank websites + press feeds,2026-10-01,0,0,,active
+energy agency monthly report,official,agency report page,2026-10-01,0,0,,active
+exchange filings,official,filing feeds,2026-10-01,0,0,,active
+macro desk list,x-list,{{YOUR_X_LIST}},2026-10-01,0,0,,active
+on-chain flows list,x-list,{{YOUR_X_LIST}},2026-10-01,0,0,,active
+commodity reporters list,x-list,{{YOUR_X_LIST}},2026-10-01,0,0,,active
