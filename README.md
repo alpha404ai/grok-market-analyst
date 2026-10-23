@@ -78,7 +78,7 @@ The rows in [`calls/example.csv`](calls/example.csv) only show the format. They 
 
 ## More from this account
 
-- [grok-trading-desk](https://github.com/apha404ai/grok-trading-desk): an autonomous paper-trading desk
-- [grok-one-shot](https://github.com/apha404ai/grok-one-shot): get a task done in one pass
+- [grok-trading-desk](https://github.com/alpha404ai/grok-trading-desk): an autonomous paper-trading desk
+- [grok-one-shot](https://github.com/alpha404ai/grok-one-shot): get a task done in one pass
 
 MIT License
